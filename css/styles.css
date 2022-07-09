@@ -38,7 +38,7 @@ body {
     background-color: hsl(30, 38%, 92%);
 }
 
-div.main-container {
+main {
     display: flex;
     justify-content: center;
     margin: auto;
