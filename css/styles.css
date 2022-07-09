@@ -162,7 +162,7 @@ img.cart {
         transform: initial;
     }
 
-    div.main-container {
+    main {
         transform: scale(0.9);
     }
 
